@@ -21,5 +21,5 @@ Get-NetIPAddress
 
 
 ```
-Add-Computer -Domainname xyz.com -Credential xyz\Administrator -Force -Restart
+Add-Computer -Domainname unravel.com -Credential unravel\Administrator -Force -Restart
 ```
